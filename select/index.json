@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "灰色のサーガ",
+  "base_artist": "ChouCho",
+  "createdAt": "2026-03-20T14:20:50.068012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "灰色のサーガ",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/01_灰色のサーガ_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "灰色のサーガ",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/02_灰色のサーガ_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "灰色のサーガ",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/03_灰色のサーガ_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "灰色のサーガ [instrumental]",
+      "artist": "ChouCho",
+      "has_synced": true,
+      "path": "select/04_灰色のサーガ_[instrumental]_ChouCho.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "灰色のサーガ",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/05_灰色のサーガ_ChouCho.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "灰色のサーガ(off vocal)",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/06_灰色のサーガ(off_vocal)_ChouCho.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "灰色のサーガ",
+      "artist": "ChouCho",
+      "has_synced": false,
+      "path": "select/pl_01_灰色のサーガ_ChouCho.txt"
+    }
+  ]
+}
